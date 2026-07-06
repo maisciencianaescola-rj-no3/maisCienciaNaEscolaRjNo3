@@ -1,3 +1,4 @@
+// Código feito por Bruno Buquer Barroso e João Pedro Toledo Martins.
 #define BUZZER 8
 #define NUM_TECLAS 12
 
